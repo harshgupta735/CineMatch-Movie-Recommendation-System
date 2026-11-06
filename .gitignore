@@ -1,0 +1,32 @@
+.venv/
+__pycache__/
+.streamlit/secrets.toml
+.env
+
+# TMDB API secrets
+.streamlit/secrets.toml
+.env
+.env.*
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code local settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
